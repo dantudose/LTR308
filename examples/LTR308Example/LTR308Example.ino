@@ -19,7 +19,7 @@ Any Arduino        "SDA"  "SCL"
 Uno, Pro            A4     A5
 Mega2560, Due       20     21
 Leonardo            2      3
-ESP8266				      5      4
+ESP8266		    5      4
 ESP32               21     22
 You can connect the INT (interrupt) pin  but it is not required for basic operation.
 */
