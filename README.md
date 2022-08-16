@@ -4,6 +4,8 @@ This is a Arduino Library for the Lite-On LTR308 optical sensor.
 This illumination sensor has a flat response across most of the visible spectrum and has an adjustable integration time. 
 It communicates via I2C and runs at 3.3V. 
 
+A modified version of the LTR303 driver written by lovelesh @ https://github.com/automote/LTR303
+
 Repository Contents
 -------------------
 
