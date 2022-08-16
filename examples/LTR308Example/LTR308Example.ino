@@ -1,6 +1,6 @@
 /* 
 	LTR308-ALS library example sketch
-	Dan Tudose
+
 
 This sketch shows how to use the LTR308 library to read the Lite-On LTR-308ALS light sensor.
 
